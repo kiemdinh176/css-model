@@ -1,0 +1,24 @@
+div{
+    width: 100px;
+    height: 100px;
+    color :saddlebrown;
+    background-color: aqua;
+    /* padding: 15px; */
+    /* trên dưới - trái phải */
+    padding: 20px 30px;
+
+    /* trên - trái phải - dưới */
+    /* padding: 20px 30px 40px;
+
+    /* trên - phải - dưới - trái */
+    padding: 20px 20px 20px 20px; */
+
+    /* viền  */
+    /* border: 10px solid pink; */
+
+    border width: 10px 20px;
+    border style: solid;
+    border color: pink;
+
+
+}
